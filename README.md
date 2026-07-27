@@ -1,9 +1,9 @@
-## Suresh John Wesly Chowdary Ginjupalli
+## Suresh Ginjupalli
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 <div id="hey" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Suresh+%F0%9F%91%8B;Full+Stack+Web+%26+App+Developer;ML++%26+AI+Engineer;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Suresh+%F0%9F%91%8B;Full+Stack+Web+%26+App+Developer;ML++%26+AI+Data+Engineer;" alt="Typing SVG" /></a>
 </div>  
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SureshJohnWesly99.SureshJohnWesly99)
@@ -19,7 +19,7 @@
 ### About me
 - 👨🏻‍🎓 M.S. Computer Science Student 
 - 👨🏻‍💻 Software Developer
-
+- Data Engineer
 
 ### Interests
 - 📱 Programming
