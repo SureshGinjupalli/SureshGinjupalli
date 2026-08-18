@@ -16,7 +16,7 @@
 
 
 ### About me
-- 👨🏻‍🎓 M.S. Computer Science Student 
+- 👨🏻‍🎓 M.S. Computer Science
 - 👨🏻‍💻 Software Developer
 - Data Engineer
 
