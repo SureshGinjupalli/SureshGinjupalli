@@ -6,8 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Suresh+%F0%9F%91%8B;Full+Stack+Web+%26+App+Developer;ML++%26+AI+Data+Engineer;" alt="Typing SVG" /></a>
 </div>  
 
-![](https://visitor-badge.laobi.icu/badge?page_id=SureshJohnWesly99.SureshJohnWesly99)
-[![Github](https://img.shields.io/github/followers/SureshJohnWesly99?label=Follow&style=social)](https://github.com/SureshJohnWesly99)<br>
+![](https://visitor-badge.laobi.icu/badge?page_id=SureshGinjupalli.SureshGinjupalli)
+[![Github](https://img.shields.io/github/followers/SureshGinjupalli?label=Follow&style=social)](https://github.com/SureshGinjupalli)<br>
 
 <div>
 <a href="https://www.linkedin.com/in/suresh-john-wesly-578382168/"><img height="30" src="https://img.shields.io/badge/linkedin-24292F?logo=linkedin&style=for-the-badge&logoColor=0A66C2" style="margin: 10pt 4pt; box-shadow: 0 5px 5px rgba(0, 0, 0, 0.25); border-style:solid; border-color: #24292F; box-shadow: 0 5px 5px rgba(0, 0, 0, 0.25); border-style:solid; border-color: #24292F; border-width: 1px;" ></a>
