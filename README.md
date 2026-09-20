@@ -6,7 +6,7 @@ Based in Austin, Texas. At Commerce, my official title is **AWS Cloud Integratio
 
 ## Featured engineering case study
 
-### [When a harmless update becomes an expensive event](https://github.com/SureshGinjupalli/meaningful-events)
+### [Reliable Event Filtering for Enterprise Integrations](https://github.com/SureshGinjupalli/meaningful-events)
 
 Which record updates deserve downstream work? An original, runnable Python demonstration compares publish-everything behavior with an explicit change policy and source-scoped duplicate handling.
 
@@ -23,6 +23,8 @@ All records are fictional. The reduction is specific to the test dataset, not a 
 - **Cloud pipeline reliability:** dependency failures, bounded retries and timeouts.
 - **Data consistency:** reconciliation outputs and QA handoffs across operational systems.
 - **Applied AI:** engineering workflows that connect context, tools, execution and reviewable results.
+
+My applied AI work includes authorized context retrieval, reviewed agent guidance, repository-based QA execution, connector troubleshooting and model usage visibility. I focus on whether tools actually ran and whether their results are useful to the next engineer.
 
 My working interests include Python, SQL, AWS/serverless systems, integration reliability and practical AI tooling.
 
