@@ -32,4 +32,4 @@ My working interests include Python, SQL, AWS/serverless systems, integration re
 
 CRM-to-billing reconciliation, integration maintenance, and AI cost/quality assessment. These are [business hypotheses to investigate](https://github.com/SureshGinjupalli/meaningful-events/blob/main/EXPLORATIONS.md), not validated products or customer outcomes.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/suresh-ginjupalli/)
+[Portfolio: suresh.build](https://suresh.build) · [Connect on LinkedIn](https://www.linkedin.com/in/suresh-ginjupalli/)
